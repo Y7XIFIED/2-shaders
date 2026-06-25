@@ -8,9 +8,7 @@ A collection of interactive Canvas/WebGL shaders featuring built-in gemstone-the
 
 ## 🚀 Live Website
 
-Experience the fully interactive website live here: 
-- [Shader 1 (Interactive Waves)](https://shaderoneeyyy.vercel.app/)
-- [Shader 2 (Gradient Blinds)](https://shadertwoooyyy.vercel.app/)
+Experience the fully interactive website live here: https://shaderoneeyyy.vercel.app/ (Shader 1) | https://shadertwoooyyy.vercel.app/ (Shader 2)
 
 ## Demos
 
