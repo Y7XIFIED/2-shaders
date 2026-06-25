@@ -1,6 +1,12 @@
-# Shaders Demo
+<h3 align="center"><b>Shaders Demo</b></h3>
 
-A collection of interactive shaders built with HTML, CSS, and JS. 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,vite" />
+</p>
+
+## 🚀 Live Website
+
+Experience the fully interactive website live here: [Insert Live Link Here]
 
 ## Demos
 
@@ -9,3 +15,5 @@ A collection of interactive shaders built with HTML, CSS, and JS.
 
 ### Shader 2
 ![Shader 2 Demo](shader2.gif)
+
+<div align="center"><p>Y7XIFIED</p></div>
