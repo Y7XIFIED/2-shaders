@@ -7,8 +7,8 @@
 ## 🚀 Live Website
 
 Experience the fully interactive websites live here:
-- **Shader 1:** https://shaderoneeyyy-gyyqkb5ln-yugank.vercel.app
-- **Shader 2:** https://shadertwoooyyy-an5hale6w-yugank.vercel.app
+- **Shader 1:** https://shaderoneeyyy.vercel.app/
+- **Shader 2:** https://shadertwoooyyy.vercel.app/
 
 ## Demos
 
