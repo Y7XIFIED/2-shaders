@@ -18,8 +18,8 @@ Interact dynamically with your mouse or touch to explore the visual effects! Mov
 ### Setup Instructions
 1. Clone the repository:
 ```bash
-git clone https://github.com/Y7XIFIED/2-shaders.git
-cd 2-shaders
+git clone https://github.com/Y7XIFIED/2-Shaders.git
+cd 2-Shaders
 ```
 2. Install the package dependencies:
 ```bash
@@ -32,7 +32,7 @@ npm run dev
 
 ## 📂 Project Structure
 ```text
-2-shaders/
+2-Shaders/
 ├── .gitignore
 ├── .vercel
 │   ├── project.json
