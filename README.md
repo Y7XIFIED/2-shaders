@@ -39,7 +39,7 @@ npm run dev
 │   └── README.txt
 ├── dist
 │   ├── assets
-│   │   ├── favicon-BCHH1r5z.png
+│   │   ├── 1.png
 │   │   ├── Nasalization Rg-DD0SFZwf.otf
 │   │   ├── shader1-B0aHeo9q.css
 │   │   └── shader2-CCIhl6gP.css
