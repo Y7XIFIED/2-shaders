@@ -37,17 +37,6 @@ npm run dev
 ├── .vercel
 │   ├── project.json
 │   └── README.txt
-├── dist
-│   ├── assets
-│   │   ├── 1.png
-│   │   ├── Nasalization Rg-DD0SFZwf.otf
-│   │   ├── shader1-B0aHeo9q.css
-│   │   └── shader2-CCIhl6gP.css
-│   ├── index.html
-│   ├── shader-1
-│   │   └── index.html
-│   └── shader-2
-│       └── index.html
 ├── favicon.png
 ├── fonts
 │   └── Nasalization Rg.otf
